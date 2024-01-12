@@ -365,7 +365,7 @@ footer {
   background-color: #4c867f;
   height: 50px;
 }
-
+/*RESPONSIVIDADE TABLET*/
 @media screen and (max-width: 768px) {
 
   .cabecalho {
@@ -405,6 +405,101 @@ footer {
 
   .cards-group {
     gap: 55px;
+  }
+
+  .intro1,
+  .intro2,
+  .intro3 {
+    width: 180px;
+    font-size: 12px;
+  }
+
+  .gratuita div.gratis div.free h1 {
+    font-size: 35px;
+  }
+
+  .gratuita div.gratis div.free h2 {
+    padding: 5px 12px 5px 13px;
+  }
+
+  .garanta {
+    margin-left: 100px;
+  }
+
+  .login {
+    margin-left: 29.5%;
+
+  }
+
+  .login .logar {
+    font-size: 17px;
+  }
+
+  .login .people {
+    font-size: 15px;
+  }
+
+  .login .opinion {
+    font-size: 15px;
+  }
+
+  .pessoalcoment {
+    width: 250px;
+  }
+
+  #coment,
+  #coment2,
+  #coment3 {
+    width: 350px;
+  }
+  .fim{
+    width: 10%;
+  }
+}
+/*RESPONSIVIDADE MOBILE*/
+@media screen and (max-width: 700px) {
+
+  .cabecalho {
+    gap: 15%;
+  }
+
+  .topo {
+    gap: 50px;
+  }
+
+  .book {
+    height: 250px;
+    margin-right: 0px;
+    margin-left: 80px;
+  }
+
+  .titulo2 {
+    font-size: 50px;
+  }
+
+  .titulobook {
+    margin-top: 10%;
+  }
+
+  .cabecalho {
+    gap: 10%;
+  }
+
+  .description {
+    margin-left: 10px;
+
+  }
+
+  .beneficio {
+    margin: 0px;
+  }
+
+  .cards-group {
+    gap: 45px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
   }
 
   .intro1,
