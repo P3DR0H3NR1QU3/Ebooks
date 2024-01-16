@@ -11,8 +11,6 @@ a {
 
 .fundo1 {
   background-color: #d5d5d5;
-
-
 }
 
 .cabecalho {
@@ -65,11 +63,6 @@ a {
   }
 }
 
-.icon2 {
-  margin-right: 30px;
-  width: 30px;
-  height: 30px;
-}
 
 .topo {
   display: flex;
