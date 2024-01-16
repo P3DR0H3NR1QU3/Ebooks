@@ -339,8 +339,8 @@ a {
 #coment1,
 #coment2,
 #coment3 {
-  width: 20%;
-  font-size: 15px;
+  width: 80%;
+  font-size: 19px;
   margin: 0px 0px 0px 50px;
   padding: 10px 40px 30px 20px;
   border-radius: 2%;
@@ -447,10 +447,11 @@ footer {
     width: 250px;
   }
 
-  #coment,
+  #coment1,
   #coment2,
   #coment3 {
-    width: 350px;
+    width: 80%;
+    font-size: 15px;
   }
 
   .fim {
@@ -529,7 +530,8 @@ footer {
   }
 
   .gratuita div.gratis div.free h2 {
-    padding: 5px 12px 5px 12px;
+    padding: 2px 41px 5px 40px;
+    font-size: 20px;
   }
 
   .garanta {
@@ -561,10 +563,10 @@ footer {
     width: 250px;
   }
 
-  #coment,
+  #coment1,
   #coment2,
   #coment3 {
-    width: 350px;
+    width: 80%;
   }
 
   .fim {
