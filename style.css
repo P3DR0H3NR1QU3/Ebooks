@@ -536,8 +536,9 @@ footer {
   }
 
   .gratuita div.gratis div.free h2 {
-    padding: 2px 41px 5px 40px;
+    padding: 5px 21px 5px 39px;
     font-size: 20px;
+    width: 110px;
   }
 
   .garanta {
