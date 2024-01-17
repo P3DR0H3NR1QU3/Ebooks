@@ -227,9 +227,13 @@ a {
   margin-left: 300px;
 }
 
+.gratuita {
+  padding-top: 90px;
+}
+
 .gratuita div.gratis div.free h1 {
   font-size: 50px;
-  margin-top: 90px;
+  /* margin-top: 90px; */
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
 }
@@ -294,14 +298,14 @@ a {
 
 .all {
   background-color: #06910157;
-  padding-bottom: 20px;
+  padding-top: 40px;
 }
 
 .avaliacao {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 40px 0px 80px 0px;
+  padding: 0px 0px 80px 0px;
   font-size: 40px;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
