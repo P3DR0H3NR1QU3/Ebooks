@@ -375,7 +375,9 @@ footer {
   .topo {
     gap: 250px;
   }
-
+  .menu{
+    padding-left: 60px;
+  }
   .book {
     height: 250px;
     margin-right: 20px;
@@ -475,7 +477,7 @@ footer {
     gap: 250px;
   }
   .menu{
-    padding-left: 50px;
+    padding-left: 60px;
   }
   .book {
     height: 250px;
