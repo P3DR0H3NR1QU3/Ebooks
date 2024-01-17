@@ -12,6 +12,7 @@ a {
 
 .fundo1 {
   background-color: #d5d5d5;
+  margin-bottom: -90px;
 }
 
 .cabecalho {
@@ -298,7 +299,8 @@ a {
 
 .all {
   background-color: #06910157;
-  padding-top: 40px;
+  padding-top: 100px;
+  padding-bottom: 30px;
 }
 
 .avaliacao {
@@ -347,7 +349,7 @@ a {
   justify-content: center;
 }
 
-.fim {
+.fim h3 {
   justify-content: center;
   display: flex;
   background-color: #4c867f;
